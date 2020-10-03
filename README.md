@@ -1,4 +1,4 @@
-# share_app
+# share_app - amazing build setup.
 
 > A Vue.js project
 
